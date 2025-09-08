@@ -32,23 +32,22 @@ This repository highlights the **Python components** of the program, including:
 
 ## 📜 CV & Certifications
 You can find my full portfolio and certifications here:  
-- 📄 **CV**: [bit.ly/cv_nazuwaaulia](https://bit.ly/cv_nazuwaaulia)  
+- 📄 **CV**: [bit.ly/cv_nazuwaaulia](https://bit.ly/cv_nazuwaaulia)
+- 🌐 **Portfolio**: [datascienceportfol.io/nazuwaauliawrk](http://datascienceportfol.io/nazuwaauliawrk)  
+- 📊 **RPubs**: [rpubs.com/nazuwaaulia24](https://rpubs.com/nazuwaaulia24)  
 - 🏅 **Certifications**: [bit.ly/sertifikat_nazuwaaulia](https://bit.ly/sertifikat_nazuwaaulia)  
 
 ---
 
 ## 🚀 About Me
-I am a fresh graduate in **Statistics and Data Science** from IPB University with strong analytical and problem-solving skills.  
+Fresh graduate in **Statistics and Data Science** from IPB University with strong analytical and problem-solving skills.  
+Proficient in **Microsoft Word, Excel, and PowerPoint**, with practical experience in statistical and programming tools such as **R Studio, SAS Studio, SQL, and Python**.  
+Also familiar with data visualization and statistical software such as **Tableau and Stata**.  
 
-💡 **Skills & Tools**:  
-- Productivity: **Microsoft Word, Excel, PowerPoint**  
-- Programming & Analytics: **Python, R Studio, SAS Studio, SQL**  
-- Visualization & Statistical Software: **Tableau, Stata**  
+Experienced in data analysis projects that enhanced the ability to process, analyze, and interpret real-life data.  
+Recognized as an active and hardworking individual who enjoys collaborating in diverse environments, with particular interest in **data analysis and decision-making based on data**.  
 
-I have hands-on experience in data analysis projects that strengthened my ability to process, analyze, and interpret real-world data.  
-Known as an active and hardworking individual, I enjoy collaborating in diverse environments and have a strong interest in **data analysis and data-driven decision making**.  
-
-Currently, I am seeking job opportunities that enable continuous growth and professional development.  
+Currently looking for job opportunities that allow continuous growth and development into a professional career.  
 
 ---
 
